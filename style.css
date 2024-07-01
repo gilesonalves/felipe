@@ -5,7 +5,6 @@
     height: 100%;
     margin: 0;
     padding-bottom: 50px;
-    max-width: 100%;
   }
 
   .titulo-restaurante {
@@ -34,21 +33,17 @@
 
   .bloco-central {
     display: flex;
-    max-width: 100%;
+   
   }
 
   .coluna-central {
     border: 1px solid red;
     border-radius: 10px;
-    padding: 10px 50px;
+    padding: 10px;
     background-color: white;
-    width: auto;
+    width: 400px;
    
     margin: 0 10px;
-  }
-
-  .alinhado-texto img {
-    max-width: 100%;
   }
 
   .icone img {

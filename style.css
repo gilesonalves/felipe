@@ -1,0 +1,168 @@
+.banner {
+    background-image: url(madeira.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+  }
+
+  .titulo-restaurante {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  .faixa {
+    margin: 0;
+    padding: 0;
+    height: 80px;
+    background-color: brown;
+  }
+
+
+  .title-pri {
+    font-size: 50px;
+    color: hsl(14, 90%, 36%);
+    text-align: center;
+    padding-top: 50px;
+
+  }
+
+  .bloco-central {
+    display: flex;
+   
+  }
+
+  .coluna-central {
+    border: 1px solid red;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    width: 600px;
+    height: 340px;
+    margin: 0 10px;
+  }
+
+  .icone img {
+    width: 20px;
+    margin-right: 10px;
+
+  }
+
+  .icone {
+    display: flex;
+    align-items: center;
+    
+
+  }
+
+  .preco {
+     font-size: 16px;
+
+  }
+
+  .alinhado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .alinhado-texto {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+
+  .alinhado img {
+    margin-bottom: 50px;
+  }
+
+  .titulo {
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  #alinhar {
+    font-size: 35px;
+    color: hsl(14, 90%, 36%);
+    text-align: center;
+    padding: 25px ;
+  }
+
+  .descricao-prato {
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  
+  .descricao {
+    line-height: 1;
+    margin: 0;
+  }
+
+  .faixa-2 {
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+   justify-content: space-evenly;
+    
+  }
+
+  .link {
+    text-align: right;
+   color: rgb(255, 255, 255);
+   background-color: rgb(108, 70, 65);
+   padding: 5px 20px;
+   border-radius: 25%;
+   
+   text-align: right;
+  }
+
+  .banner2 {
+    background-image: url(aberturasite.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+    background-position: center;
+  }
+
+  .titulo-restaurante-2 {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    margin-left: 500px;
+    padding: 20px 0 30px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  
+
+  .descri {
+    text-align: center;
+    margin-top: 300px;
+    color: rgb(0, 0, 0);
+    
+  }
+
+  .titulo-3 {
+    font-size: 80px;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .texto-3 {
+    font-size: 30px;
+    max-width: 1400px;
+    margin: 0 auto;
+    font-weight: bold;
+    line-height: 1.2;
+    background-color: rgba(0, 255, 255, 0.285);
+    padding: 20px;
+    border-radius: 10px;
+  }
+
